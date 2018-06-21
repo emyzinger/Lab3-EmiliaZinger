@@ -1,4 +1,4 @@
-﻿**Try with a Linked List- Does this make any difference? (list) **
+**Try with a Linked List- Does this make any difference? (list)**
 
 No, running the program with a Linked List does not make any difference. All the tests pass without any changes to their code.  
 

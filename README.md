@@ -27,7 +27,7 @@ You will set it up and then take measurements.
 1. Review the code.
 1. Fix the syntax errors (if any, though there probably aren't any).
 2. Run the code for various inputs to gain an understanding of what it does.
-3. Complete the items marked TODO in the code and get the tests to pass.
+3. Complete the items marked TO DO in the code and get the tests to pass.
 2. Conduct the performance measurements: you will find the running times in the test report.
 4. Create a markdown document called Answers.md and answer the various questions embedded in the code.
 
@@ -45,7 +45,7 @@ Please submit the following deliverables:
 # Grading
 
 - 8 submission via GitHub
-- 8 tests passing and completion of items marked TODO
+- 8 tests passing and completion of items marked TO DO
 - 8 performance testing for increasing problem sizes
 - 16 written part
   - 12 responses to the questions above
